@@ -238,7 +238,7 @@ $vmSourceList
 [System.Int32]$countVM = $vmSourceList.Count
 
 #FOR TEST PURPOSE ONLY
-#$sourceVM = 'tb-b6-poc01-app02'
+#$sourceVM = 'testVM'
 
 Pause-PSScript
 
